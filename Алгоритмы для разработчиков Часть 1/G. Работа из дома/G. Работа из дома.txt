@@ -1,7 +1,0 @@
-n = int(input())
-dv = ""
-while n != 0:
-    dv += str(n % 2)
-    n //= 2
-dv = dv[::-1]
-print(dv)
