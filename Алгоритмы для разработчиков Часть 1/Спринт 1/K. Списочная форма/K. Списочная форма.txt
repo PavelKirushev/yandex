@@ -1,2 +1,0 @@
-n = int(input())
-print(" ".join(s for s in str(int("".join(list(map(str, input().split())))) + int(input()))))
