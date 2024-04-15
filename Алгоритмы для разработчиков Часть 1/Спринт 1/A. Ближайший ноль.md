@@ -1,3 +1,4 @@
+# A. Ближайший ноль
 <img src="https://github.com/PavelKirushev/yandex/assets/137924137/4a377446-d04c-4e3e-946e-284426a3dd76" alt="Ближайший ноль" width="600">
 
 ## Решение
