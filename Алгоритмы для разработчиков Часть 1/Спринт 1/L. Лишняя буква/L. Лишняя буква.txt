@@ -1,6 +1,0 @@
-s = [s for s in input()]
-t = [t for t in input()]
-for i in t:
-    if i not in s or s.count(i) != t.count(i):
-        print(i)
-        break
