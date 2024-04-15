@@ -1,9 +1,0 @@
-s = input()
-st = ""
-for i in range(len(s)):
-    if s[i].isalpha():
-        st += s[i].lower()
-if st == st[::-1]:
-    print("True")
-else:
-    print("False")
